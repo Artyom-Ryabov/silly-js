@@ -1,4 +1,4 @@
-function TodoForm(addTodo) {
+export function TodoForm(addTodo) {
     const desc = $state('');
 
     return $.div(

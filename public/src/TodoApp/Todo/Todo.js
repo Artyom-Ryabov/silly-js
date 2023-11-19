@@ -1,4 +1,4 @@
-function Todo(todo, updateTodo, deleteTodo) {
+export function Todo(todo, updateTodo, deleteTodo) {
     const isComplete = $state(todo.isComplete ?? false);
     return $.div(
         {
