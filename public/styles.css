@@ -1,8 +1,0 @@
-@import url(./src/utils/setup.css);
-@import url(./src/utils/fonts.css);
-@import url(./src/utils/colors.css);
-
-@import url(./src/App/App.css);
-@import url(./src/TodoApp/Todo/Todo.css);
-@import url(./src/TodoApp/TodoForm/TodoForm.css);
-@import url(./src/TodoApp/TodoList/TodoList.css);

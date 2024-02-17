@@ -1,0 +1,6 @@
+*,
+* > * {
+    font-size: 1.5rem;
+    font-family: 'JetBrains Mono', Courier, monospace;
+    box-sizing: border-box;
+}
